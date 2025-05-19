@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1 align="center">Vidhan Vispute</h1>
 
 <div align="center">
@@ -84,3 +85,21 @@ Full-stack developer with expertise in Java, .NET, and MERN stack technologies. 
 - 🤝 Interested in project collaborations and technical partnerships
 
 > "Building scalable, secure, and efficient solutions through DevOps practices and modern development approaches."
+=======
+## Hi there 👋
+
+<!--
+**RutvikDahikar/RutvikDahikar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+>>>>>>> 46b50b48b28532f4cee0b948c1b02f7afe49e83a
